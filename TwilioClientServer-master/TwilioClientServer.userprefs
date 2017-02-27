@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{71396ABC-529E-41FA-8050-CAF0F6A69D5F}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwilioClientServer\Controllers\ClientController.cs">
+    <Files>
+      <File FileName="TwilioClientServer\Controllers\ClientController.cs" Line="12" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TwilioClientServer PreferredExecutionTarget="AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9" />
+</Properties>
